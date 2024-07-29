@@ -1,0 +1,32 @@
+.status-booking-container {
+  /* margin-top: 20px; */
+}
+
+.booking-details {
+  /* border: 1px solid #ddd; */
+  padding: 10px;
+  margin-bottom: 50px;
+  border-radius: 5px;
+  margin: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+  /* background-color: #f9f9f9; */
+}
+
+.movie-poster {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.movie-info h3 {
+  margin-top: 10px;
+}
+
+.movie-info h4 {
+  margin-top: 10px;
+}
+
+.button {
+  margin-top: 20px;
+}
